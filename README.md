@@ -10,10 +10,15 @@ This program is mainly used to escape the maze. The robot can move in the maze a
 
 •How to start system:
 
--At first, launch simulator: roslaunch uol_turtlebot_simulator simple.launch
+-Getting workspace package:sudo apt-get update && sudo apt-get upgrade && sudo apt-get install ros-melodic-uol-cmp3103m
+
+-launch simulator: roslaunch uol_turtlebot_simulator simple.launch
 	
 -In new terminal,run RViz: roslaunch uol_turtlebot_simulator turtlebot-rviz.launch
 
+-Setting my python file into workspace script file
+
+-Finally running successfully
 
 
 •Explanation:
